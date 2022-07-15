@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&family=Raleway:wght@400;700;1000&display=swap');
+
+:root {
+	--primary-dark: #161922;
+	--primary-light: #b3c0e2;
+	--secondary-dark: #5d73b5;
+
+	--white: #ffffff;
+}
+
+html {
+	font-size: 10px;
+}
+
+body {
+	font-family: 'Prompt', sans-serif;
+}
